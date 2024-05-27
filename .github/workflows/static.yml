@@ -1,0 +1,175 @@
+<!doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" href="lib/style.css">
+    <script src="lib/script.js"></script>
+<div style="width: 595px; height: 842px; position: relative; background: white">
+  <div style="width: 595px; height: 842px; left: 0px; top: 0px; position: absolute">
+    <div style="width: 595px; height: 356px; left: 0px; top: 0px; position: absolute; background: #DDDFDE"></div>
+    <div style="width: 595px; height: 486px; left: 0px; top: 356px; position: absolute; background: #FEEDE6"></div>
+    <div style="width: 545px; height: 792px; left: 25px; top: 25px; position: absolute; background: white"></div>
+  </div>
+  <div style="width: 183px; height: 57px; left: 46px; top: 483px; position: absolute">
+    <div style="width: 180px; height: 1px; left: 3px; top: 0px; position: absolute; background: #414042"></div>
+    <div style="width: 180px; height: 1px; left: 3px; top: 26px; position: absolute; background: #414042"></div>
+    <div style="left: 23px; top: 6px; position: absolute; color: #414042; font-size: 11px; font-family: Advent Pro; font-weight: 700; letter-spacing: 1.65px; word-wrap: break-word">НАПРАВЛЕНИЯ</div>
+    <div style="left: 14px; top: 33px; position: absolute; color: #414042; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Предпочтительно мобильный<br/>разработчик</div>
+    <div style="width: 4px; height: 5px; left: 7px; top: 42px; position: absolute; background: #414042; border-radius: 9999px"></div>
+    <img style="width: 15px; height: 15px; left: 0px; top: 5px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/Vector%202.svg" />
+  </div>
+  <div style="width: 180px; height: 87px; left: 49px; top: 547px; position: absolute">
+    <div style="width: 180px; height: 1px; left: 0px; top: 0px; position: absolute; background: #414042"></div>
+    <div style="width: 180px; height: 1px; left: 0px; top: 26px; position: absolute; background: #414042"></div>
+    <div style="left: 21px; top: 8px; position: absolute; color: #414042; font-size: 11px; font-family: Advent Pro; font-weight: 700; letter-spacing: 1.65px; word-wrap: break-word">ПРОФЕССИЯ</div>
+    <div style="left: 10px; top: 63px; position: absolute; color: #414042; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Фронтенд-разработчик<br/></div>
+    <div style="left: 10px; top: 40px; position: absolute; color: #414042; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">iOS-разработчик</div>
+    <div style="width: 4px; height: 5px; left: 4px; top: 67px; position: absolute; background: #414042; border-radius: 9999px"></div>
+    <div style="width: 4px; height: 5px; left: 4px; top: 43px; position: absolute; background: #414042; border-radius: 9999px"></div>
+  </div>
+  <div style="width: 438px; height: 39px; left: 84px; top: 769px; position: absolute">
+    <div style="width: 90px; height: 39px; left: 222px; top: 0px; position: absolute">
+      <div style="left: 0px; top: 28px; position: absolute; color: #414042; font-size: 9px; font-family: Roboto; font-weight: 400; word-wrap: break-word">facebook.com/my.sda</div>
+      <img style="width: 20px; height: 20px; left: 38px; top: 0px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/Vector%20(4)%201.svg" />
+    </div>
+    <div style="width: 72px; height: 39px; left: 0px; top: 0px; position: absolute">
+      <div style="left: 0px; top: 28px; position: absolute; color: #414042; font-size: 9px; font-family: Roboto; font-weight: 400; word-wrap: break-word">linkedin.com/dtss</div>
+      <img style="width: 20px; height: 20px; left: 32px; top: 0px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/Vector%20(2)%201.svg" />
+    </div>
+    <div style="width: 97px; height: 37px; left: 341px; top: 0px; position: absolute">
+      <div style="left: 0px; top: 28px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">vip.smirnoff55@gmail.com</div>
+      <img style="width: 20px; height: 20px; left: 31px; top: 0px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/Group%2050%201.svg" />
+    </div>
+    <div style="width: 62px; height: 39px; left: 121px; top: 0px; position: absolute">
+      <img style="width: 20px; height: 20px; left: 22px; top: 0px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/Vector%20(3)%201.svg" />
+      <div style="left: 0px; top: 28px; position: absolute; color: #414042; font-size: 9px; font-family: Roboto; font-weight: 400; word-wrap: break-word">@aboba.twitter</div>
+    </div>
+  </div>
+  <div style="width: 224px; height: 204px; left: 32px; top: 34px; position: absolute">
+    <div style="width: 224px; height: 45px; left: 10px; top: 3px; position: absolute; color: #414042; font-size: 20px; font-family: Advent Pro; font-weight: 700; word-wrap: break-word">Смирнов Александр </div>
+    <div style="width: 224px; height: 45px; left: 50px; top: 25px; position: absolute; color: #414042; font-size: 20px; font-family: Advent Pro; font-weight: 700; word-wrap: break-word">Сергеевич </div>
+    <div style="left: 68px; top: 53px; position: absolute; color: #414042; font-size: 12px; font-family: Advent Pro; font-weight: 700; letter-spacing: 1.80px; word-wrap: break-word">СТУДЕНТ </div>
+    <div style="left: 72px; top: 68px; position: absolute; color: #414042; font-size: 12px; font-family: Advent Pro; font-weight: 700; letter-spacing: 1.80px; word-wrap: break-word">ЦПИ-11а</div>
+    <img style="width: 145px; height: 120px; left: 35px; top: 84px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/s1200.webp" />
+  </div>
+  <div style="width: 180px; height: 115px; left: 49px; top: 249px; position: absolute">
+    <img style="width: 15px; height: 15px; left: 0px; top: 6px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/icon.svg" />
+    <div style="left: 87px; top: 98px; position: absolute; opacity: 0.80; color: #414042; font-size: 9px; font-family: Roboto; font-weight: 400; word-wrap: break-word">www.webb.com/mycv/</div>
+    <img style="width: 10px; height: 10px; left: 11px; top: 55px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/XMLID_22_%201.svg" />
+    <img style="width: 10px; height: 10px; left: 10px; top: 99px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/XMLID_136_%201.svg" />
+    <img style="width: 11px; height: 8px; left: 10px; top: 79px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/XMLID_87_%201.svg" />
+    <div style="left: 103px; top: 32px; position: absolute; opacity: 0.80; color: #414042; font-size: 9px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Ярославская 144</div>
+    <div style="left: 103px; top: 54px; position: absolute; opacity: 0.80; color: #414042; font-size: 9px; font-family: Roboto; font-weight: 400; word-wrap: break-word">(000)954-987-2679</div>
+    <div style="left: 61px; top: 76px; position: absolute; opacity: 0.80; color: #414042; font-size: 9px; font-family: Roboto; font-weight: 400; word-wrap: break-word">vip.smirnovas.55@gmail.com</div>
+    <div style="width: 180px; height: 1px; left: 0px; top: 0px; position: absolute; background: #414042"></div>
+    <div style="width: 180px; height: 1px; left: 0px; top: 26px; position: absolute; background: #414042"></div>
+    <div style="width: 13px; height: 0.50px; left: 34px; top: 44px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; background: #414042"></div>
+    <div style="width: 13px; height: 0.50px; left: 34px; top: 88px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; background: #414042"></div>
+    <div style="width: 13px; height: 0.50px; left: 34px; top: 66px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; background: #414042"></div>
+    <div style="width: 13px; height: 0.50px; left: 34px; top: 110px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; background: #414042"></div>
+    <div style="width: 180px; height: 1px; left: 0px; top: 48px; position: absolute; background: #414042"></div>
+    <div style="width: 180px; height: 1px; left: 0px; top: 70px; position: absolute; background: #414042"></div>
+    <div style="width: 180px; height: 1px; left: 0px; top: 92px; position: absolute; background: #414042"></div>
+    <div style="width: 180px; height: 1px; left: 0px; top: 114px; position: absolute; background: #414042"></div>
+    <img style="width: 9px; height: 9px; left: 12px; top: 35px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/Vector.svg" />
+    <div style="width: 103px; height: 14.74px; left: 25px; top: 8px; position: absolute; color: #414042; font-size: 12px; font-family: Advent Pro; font-weight: 700; letter-spacing: 1.80px; word-wrap: break-word">КОНТАКТЫ</div>
+  </div>
+  <div style="width: 183px; height: 118px; left: 46px; top: 630px; position: absolute">
+    <div style="width: 86.49px; left: 26.97px; top: 7px; position: absolute; color: #414042; font-size: 11px; font-family: Advent Pro; font-weight: 700; letter-spacing: 1.65px; word-wrap: break-word">ИНТЕРЕСЫ</div>
+    <div style="width: 134.43px; left: 17px; top: 38px; position: absolute; color: #414042; font-size: 9px; font-family: Roboto; font-weight: 400; line-height: 12.60px; word-wrap: break-word">Игровые Игры</div>
+    <div style="width: 140.68px; left: 16.55px; top: 68px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Езда на машине</div>
+    <div style="width: 5.21px; height: 5px; left: 3px; top: 38px; position: absolute; background: #414042;border-radius: 9999px"></div>
+    <div style="width: 5.21px; height: 5px; left: 3px; top: 70px; position: absolute; background: #414042;border-radius: 9999px"></div>
+    <div style="width: 180px; height: 1px; left: 3px; top: 0px; position: absolute; background: #414042"></div>
+    <div style="width: 180px; height: 1px; left: 3px; top: 26px; position: absolute; background: #414042"></div>
+    <div style="width: 80.24px; left: 16.55px; top: 99px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Волейбол</div>
+    <div style="width: 5.21px; height: 5px; left: 3px; top: 100px; position: absolute; background: #414042;border-radius: 9999px"></div>
+    <img style="width: 25px; height: 16px; left: 0px; top: 6px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/image%201.svg" />
+  </div>
+  <div style="width: 286px; height: 173px; left: 266px; top: 225px; position: absolute">
+    <img style="width: 20px; height: 17px; left: 1px; top: 5px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/icon%20(1)%201.svg" />
+    <div style="width: 1px; height: 130px; left: 2px; top: 43px; position: absolute; background: #414042"></div>
+    <div style="width: 5px; height: 5.27px; left: -0.3px; top: 43.18px; position: absolute; background: #414042; border-radius: 9999px"></div>
+    <div style="width: 5px; height: 5.27px; left: -0.3px; top: 127px; position: absolute; background: #414042; border-radius: 9999px"></div>
+    <div style="width: 285px; height: 1.05px; left: 1px; top: 0px; position: absolute; background: #414042"></div>
+    <div style="width: 285px; height: 1.05px; left: 1px; top: 27.38px; position: absolute; background: #414042"></div>
+    <div style="width: 127px; height: 15px; left: 30px; top: 7px; position: absolute; color: #414042; font-size: 12px; font-family: Advent Pro; font-weight: 700; letter-spacing: 1.80px; word-wrap: break-word">ОБРАЗОВАНИЕ</div>
+    <div style="width: 184px; height: 63.19px; left: 14px; top: 38.97px; position: absolute">
+      <div style="width: 178px; height: 13.69px; left: 6px; top: 35.03px; position: absolute; color: #414042; font-size: 9px; font-family: Roboto; font-weight: 400; line-height: 12.60px; word-wrap: break-word">основное общее образование (5–9 класс)</div>
+      <div style="width: 62px; height: 13.69px; left: 0px; top: 0px; position: absolute; color: #414042; font-size: 11px; font-family: Advent Pro; font-weight: 700; letter-spacing: 0.22px; word-wrap: break-word">Школьное</div>
+      <div style="width: 79px; height: 11.59px; left: 0px; top: 16.85px; position: absolute; opacity: 0.70; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; line-height: 11.20px; word-wrap: break-word">Средняя Школа №88</div>
+      <div style="width: 4px; height: 5px; left: 0px; top: 40px; position: absolute; background: #414042; border-radius: 9999px"></div>
+      <div style="width: 4px; height: 5px; left: 0px; top: 55px; position: absolute; background: #414042; border-radius: 9999px"></div>
+    </div>
+    <div style="width: 272px; height: 48.45px; left: 14px; top: 122px; position: absolute">
+      <div style="width: 264px; height: 13.69px; left: 8px; top: 34.76px; position: absolute; text-align: justify; color: #414042; font-size: 9px; font-family: Roboto; font-weight: 400; line-height: 12.60px; word-wrap: break-word">Высшее образование</div>
+      <div style="width: 197px; height: 13.69px; left: 0px; top: 0px; position: absolute; color: #414042; font-size: 11px; font-family: Advent Pro; font-weight: 700; letter-spacing: 0.22px; word-wrap: break-word">Профессиональное образование</div>
+      <div style="width: 217px; height: 11.59px; left: 0px; top: 16.85px; position: absolute; opacity: 0.70; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; line-height: 11.20px; word-wrap: break-word">Ярославский Государственный Технический университет</div>
+      <div style="width: 4px; height: 5px; left: 0px; top: 38px; position: absolute; background: #414042; border-radius: 9999px"></div>
+    </div>
+    <div style="left: 20px; top: 91px; position: absolute; color: #414042; font-size: 9px; font-family: Roboto; font-weight: 400; line-height: 12.60px; word-wrap: break-word">среднее общее образование (10–11 класс)</div>
+  </div>
+  <div style="width: 285px; height: 154px; left: 265px; top: 45px; position: absolute">
+    <div style="width: 230px; height: 35px; left: 13px; top: 54px; position: absolute">
+      <div style="left: 7px; top: 0px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Окончил школу с отличием.</div>
+      <div style="left: 7px; top: 13px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Член Студенческой ассоциации проектного менеджмента.</div>
+      <div style="left: 7px; top: 26px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Имею стаж в IT</div>
+      <div style="width: 3.5px; height: 3.5px; left: 0px; top: 16px; position: absolute; background: #414042; border-radius: 9999px"></div>
+      <div style="width: 3.5px; height: 3.5px; left: 0px; top: 3px; position: absolute; background: #414042; border-radius: 9999px"></div>
+      <div style="width: 3.5px; height: 3.5px; left: 0px; top: 29.5px; position: absolute; background: #414042; border-radius: 9999px"></div>
+    </div>
+    <div style="width: 134px; height: 22px; left: 13px; top: 121px; position: absolute">
+      <div style="left: 7px; top: 0px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Имеются водительские права </div>
+      <div style="left: 7px; top: 13px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Поступил в хороший университет</div>
+      <div style="width: 3.5px; height: 3.5px; left: 0px; top: 16px; position: absolute; background: #414042; border-radius: 9999px"></div>
+      <div style="width: 3.5px; height: 3.5px; left: 0px; top: 3px; position: absolute; background: #414042; border-radius: 9999px"></div>
+    </div>
+    <img style="width: 21px; height: 15px; left: -4px; top: 6px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/Group%20200%202.svg" />
+    <div style="width: 5px; height: 5px; left: 0px; top: 40px; position: absolute; background: #414042; border-radius: 9999px"></div>
+    <div style="width: 5px; height: 5px; left: 0px; top: 102px; position: absolute; background: #414042; border-radius: 9999px"></div>
+    <div style="width: 1px; height: 112px; left: 2px; top: 42px; position: absolute; background: #414042"></div>
+    <div style="width: 285px; height: 1px; left: 0px; top: 0px; position: absolute; background: #414042"></div>
+    <div style="width: 285px; height: 1px; left: 0px; top: 26px; position: absolute; background: #414042"></div>
+    <div style="left: 13px; top: 99px; position: absolute; color: #414042; font-size: 10px; font-family: Advent Pro; font-weight: 700; letter-spacing: 0.20px; word-wrap: break-word">Хорош по жизни </div>
+    <div style="left: 13px; top: 36px; position: absolute; color: #414042; font-size: 10px; font-family: Advent Pro; font-weight: 700; letter-spacing: 0.20px; word-wrap: break-word">Мастер компьютерных наук</div>
+    <div style="left: 22px; top: 6px; position: absolute; color: #414042; font-size: 12px; font-family: Advent Pro; font-weight: 700; letter-spacing: 1.80px; word-wrap: break-word"> О СЕБЕ</div>
+  </div>
+  <div style="width: 283px; height: 122px; left: 266px; top: 412px; position: absolute">
+    <div style="width: 283px; height: 1px; left: 0px; top: 0px; position: absolute; background: #414042"></div>
+    <div style="width: 283px; height: 1px; left: 0px; top: 26px; position: absolute; background: #414042"></div>
+    <div style="width: 58px; height: 9px; left: 0px; top: 37px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">HTML/JAVA/C+</div>
+    <div style="width: 67px; height: 9px; left: 0px; top: 56px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Project Scheduling</div>
+    <div style="width: 39px; height: 9px; left: 140px; top: 37px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">WordPress</div>
+    <div style="width: 62px; height: 9px; left: 120px; top: 56px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Microsoft Project</div>
+    <div style="width: 47px; height: 9px; left: 133px; top: 75px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">MS Windows </div>
+    <div style="width: 39px; height: 9px; left: 141px; top: 94px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Linux/Unix</div>
+    <div style="width: 52px; height: 9px; left: 0px; top: 75px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Dream Weaver</div>
+    <div style="width: 86px; height: 9px; left: 0px; top: 94px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Photoshop & Illustration</div>
+    <div style="width: 78px; height: 9px; left: 0px; top: 113px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Communication Skills</div>
+    <div style="width: 86.49px; left: 23px; top: 10px; position: absolute; color: #414042; font-size: 11px; font-family: Advent Pro; font-weight: 700; letter-spacing: 1.65px; word-wrap: break-word">НАВЫКИ<br/></div>
+    <img style="width: 15px; height: 15px; left: 1px; top: 6px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/Vector%202.svg" />
+  </div>
+  <div style="width: 285px; height: 107px; left: 267px; top: 558px; position: absolute">
+    <div style="width: 284  px; height: 1px; left: 1px; top: 0px; position: absolute; background: #414042"></div>
+    <div style="width: 284px; height: 1px; left: 1px; top: 26px; position: absolute; background: #414042"></div>
+    <div style="width: 58px; height: 9px; left: 14px; top: 37px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">HTML/JAVA/C+</div>
+    <div style="width: 39px; height: 9px; left: 14px; top: 57px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Linux/Unix</div>
+    <img style="width: 16px; height: 15px; left: 0px; top: 8px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/Vector%201%201.svg" />
+    <div style="width: 39px; height: 9px; left: 14px; top: 77px; position: absolute; color: #414042; font-size: 8px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Python</div>
+    <div style="width: 4px; height: 5px; left: 4px; top: 59px; position: absolute; background: #414042; border-radius: 9999px"></div>
+    <div style="width: 4px; height: 5px; left: 4px; top: 80px; position: absolute; background: #414042; border-radius: 9999px"></div>
+    <div style="width: 4px; height: 5px; left: 4px; top: 40px; position: absolute; background: #414042; border-radius: 9999px"></div>
+    <div style="width: 1px; height: 77px; left: 2px; top: 30px; position: absolute; background: #414042"></div>
+    <div style="width: 156px; height: 19px; left: 22px; top: 1px; position: absolute; color: #414042; font-size: 11px; font-family: Advent Pro; font-weight: 700; letter-spacing: 1.65px; word-wrap: break-word">ЯЗЫКИ ПРОГМИРОВАННИЯ</div>
+  </div>
+  <div style="width: 180px; height: 83px; left: 49px; top: 379px; position: absolute">
+    <div style="width: 180px; height: 1px; left: 0px; top: 0px; position: absolute; background: #414042"></div>
+    <div style="width: 180px; height: 1px; left: 0px; top: 26px; position: absolute; background: #414042"></div>
+    <div style="left: 25px; top: 5px; position: absolute; color: #414042; font-size: 13px; font-family: Advent Pro; font-weight: 700; letter-spacing: 1.95px; word-wrap: break-word">ЗНАНИЯ ЯЗЫКОВ</div>
+    <div style="left: 10px; top: 39px; position: absolute; color: #414042; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Английский язык</div>
+    <div style="left: 10px; top: 71px; position: absolute; color: #414042; font-size: 10px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Немецкий язык</div>
+    <img style="width: 15px; height: 15px; left: 1px; top: 6px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/Group%20(1)%201.svg" />
+    <div style="width: 4px; height: 5px; left: 4px; top: 43px; position: absolute; background: #414042; border-radius: 9999px"></div>
+    <div style="width: 4px; height: 5px; left: 4px; top: 73px; position: absolute; background: #414042; border-radius: 9999px"></div>
+  </div>
+  <img style="width: 21px; height: 15px; left: 46px; top: 555px; position: absolute" src="https://raw.githubusercontent.com/sdaadsdsa/foto/main/Group%20200%202.svg" />
+</div>
